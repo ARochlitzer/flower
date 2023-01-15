@@ -3,3 +3,4 @@ fastcore
 fastbook
 voila
 ipywidgets==7.6.5
+jupyterlab==3.1.16
