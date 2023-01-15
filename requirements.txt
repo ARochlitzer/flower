@@ -2,4 +2,4 @@ fastai
 fastcore
 fastbook
 voila
-jupyterlab==3.4.0
+jupyterlab==3.2.9
