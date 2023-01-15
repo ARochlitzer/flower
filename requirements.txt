@@ -1,4 +1,4 @@
 voila
-fastai>=2
+fastai
 fastcore
 fastbook
