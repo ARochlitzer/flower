@@ -2,4 +2,3 @@ voila
 fastai>=2
 fastcore
 fastbook
-ipywidgets
