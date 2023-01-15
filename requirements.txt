@@ -1,5 +1,5 @@
-fastai==2.5.2
-fastcore==1.3.26
-fastbook==0.0.18
+fastai
+fastcore
+fastbook
 voila==0.2.16
 ipywidgets==7.6.5
