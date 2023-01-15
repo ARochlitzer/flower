@@ -1,5 +1,5 @@
 fastai
 fastcore
 fastbook
-voila==0.2.16
+voila
 ipywidgets==7.6.5
