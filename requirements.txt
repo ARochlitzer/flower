@@ -2,4 +2,4 @@ fastai
 fastcore
 fastbook
 voila
-ipywidget==7.7.2
+ipywidgets==7.7.2
