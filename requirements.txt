@@ -2,5 +2,3 @@ voila
 fastai
 fastcore
 fastbook
-ipywidgets
-IPython
