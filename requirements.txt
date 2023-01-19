@@ -1,3 +1,2 @@
+voila
 fastai
-fastcore
-fastbook
