@@ -1,2 +1,4 @@
 voila
 fastai
+fastcore
+fastbook
