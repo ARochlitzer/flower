@@ -1,5 +1,5 @@
-ipywidgets==8
 voila
+ipywidgets==8
 fastai
 fastcore
 fastbook
