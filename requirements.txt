@@ -1,3 +1,4 @@
+ipywidgets=8
 voila
 fastai
 fastcore
